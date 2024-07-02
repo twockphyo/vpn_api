@@ -1,10 +1,5 @@
 [
     {
-        "server_location": "Singapore",
-        "server_token": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJwaHlvIiwKICAiYWRkIjogInBtdDN2aXAubmF5bWluYmxvZ2dlci5jb20iLAogICJwb3J0IjogNDQzLAogICJpZCI6ICI2ZmUwMDMzYi1jYjZkLTQ3ODUtODk1Ni1mNjBhMTkxNzM2YjciLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiCn0="
-    },
-    {
-        "server_location": "Singapore",
-        "server_token": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJwaHlvIiwKICAiYWRkIjogInBtdDV2aXAubmF5bWluYmxvZ2dlci5jb20iLAogICJwb3J0IjogODAsCiAgImlkIjogImY4ZTViMDU4LTJmMGMtNGMxNC1hNTIxLTM4MGJlZGRjNDViMyIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJwYXRoIjogIi8iLAogICJmcCI6ICJhbmRyb2lkIiwKICAiYWxwbiI6ICJoMixodHRwLzEuMSIKfQ=="
+        "server_token": "vless://4f17e173-4af9-5041-9662-f6c27e0decfd@cax-1.openv2ray.com:443?encryption=none&security=tls&type=ws&host=google.com&path=%2fopentunnel%3fuser%3dopentunnel.net-phyo#opentunnel.net-phyo"
     }
 ]
