@@ -1,10 +1,10 @@
 [
     {
-        "server_location": "Singapore",
-        "server_token": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJwaHlvIiwKICAiYWRkIjogInBtdDN2aXAubmF5bWluYmxvZ2dlci5jb20iLAogICJwb3J0IjogNDQzLAogICJpZCI6ICI2ZmUwMDMzYi1jYjZkLTQ3ODUtODk1Ni1mNjBhMTkxNzM2YjciLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiCn0="
+        "server_location": "Singapore Server 1",
+        "server_token": "vmess://eyJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJoZWFkZXJUeXBlIjoiIiwiYWRkIjoicG10NHZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsInYiOiIyIiwiZnAiOiJjaHJvbWUiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJpZCI6IjI5ZWJiOTEwLTZhMTEtNGE3NC1hMjQ1LTRiZGVmZGFlZDZiMiIsImhvc3QiOiIiLCJwcyI6IlNpbmdhcG9yZSBTZXJ2ZXIgMSIsInRscyI6InRscyIsInBhdGgiOiJcLyIsInNlcnZpY2VOYW1lIjoibm9uZSIsImFpZCI6IjAifQ=="
     },
     {
-        "server_location": "Singapore",
-        "server_token": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJwaHlvIiwKICAiYWRkIjogInBtdDV2aXAubmF5bWluYmxvZ2dlci5jb20iLAogICJwb3J0IjogODAsCiAgImlkIjogImY4ZTViMDU4LTJmMGMtNGMxNC1hNTIxLTM4MGJlZGRjNDViMyIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJwYXRoIjogIi8iLAogICJmcCI6ICJhbmRyb2lkIiwKICAiYWxwbiI6ICJoMixodHRwLzEuMSIKfQ=="
+        "server_location": "Singapore Server 2",
+        "server_token": "vmess://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInBvcnQiOiI4MCIsInBzIjoiU2luZ2Fwb3JlIFNlcnZlciAyIiwiZnAiOiJhbmRyb2lkIiwiYWRkIjoicG10NXZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsInR5cGUiOiJub25lIiwiaGVhZGVyVHlwZSI6IiIsImFpZCI6IjAiLCJzbmkiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJuZXQiOiJ3cyIsInYiOiIyIiwidGxzIjoidGxzIiwiaWQiOiIwYjAxMmU0NS1mYjYwLTQ3ZWUtOTkwYy0xOWE0YmZkYTBkZTAifQ=="
     }
 ]
