@@ -6,5 +6,17 @@
     {
         "server_location": "Singapore Server 2",
         "server_token": "vmess://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInBvcnQiOiI4MCIsInBzIjoiU2luZ2Fwb3JlIFNlcnZlciAyIiwiZnAiOiJhbmRyb2lkIiwiYWRkIjoicG10NXZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsInR5cGUiOiJub25lIiwiaGVhZGVyVHlwZSI6IiIsImFpZCI6IjAiLCJzbmkiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJuZXQiOiJ3cyIsInYiOiIyIiwidGxzIjoidGxzIiwiaWQiOiIwYjAxMmU0NS1mYjYwLTQ3ZWUtOTkwYy0xOWE0YmZkYTBkZTAifQ=="
+    },
+    {
+        "server_location": "Singapore Server 3",
+        "server_token": "vmess://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJhZGQiOiJwbXQzdmlwLm5heW1pbmJsb2dnZXIuY29tIiwibmV0IjoidGNwIiwic2VydmljZU5hbWUiOiJub25lIiwicGF0aCI6IiIsImhvc3QiOiIiLCJmcCI6ImNocm9tZSIsInRscyI6InRscyIsInYiOiIyIiwiYWlkIjoiMCIsInNuaSI6IiIsImlkIjoiNmZlMDAzM2ItY2I2ZC00Nzg1LTg5NTYtZjYwYTE5MTczNmI3IiwicHMiOiJTaW5nYXBvcmUgU2VydmVyIDMiLCJ0eXBlIjoibm9uZSIsInBvcnQiOiI0NDMifQ=="
+    },
+    {
+        "server_location": "Singapore Server 4",
+        "server_token": "vmess://eyJwb3J0IjoiNDQzIiwic2VydmljZU5hbWUiOiJub25lIiwiaG9zdCI6IiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJ2IjoiMiIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjllYmI5MTAtNmExMS00YTc0LWEyNDUtNGJkZWZkYWVkNmIyIiwiaGVhZGVyVHlwZSI6IiIsImFkZCI6InBtdDR2aXAubmF5bWluYmxvZ2dlci5jb20iLCJmcCI6ImNocm9tZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwic25pIjoiIiwicHMiOiJTaW5nYXBvcmUgU2VydmVyIDQiLCJ0bHMiOiJ0bHMifQ=="
+    },
+    {
+        "server_location": "Austria Server 1",
+        "server_token": "vmess://eyJhbHBuIjoiIiwiaWQiOiI3MmQ4ZTlkYy04ZjBmLTQ5OTAtOTNhNS0wODg4NGVhZDMwMmQiLCJhaWQiOiIwIiwicGF0aCI6Ilwvdm1lc3MiLCJzbmkiOiJhdDMudjJ2bWVzcy5zaXRlIiwiZnAiOiJjaHJvbWUiLCJhZGQiOiJhdDMudjJ2bWVzcy5zaXRlIiwidGxzIjoidGxzIiwic2VydmljZU5hbWUiOiJub25lIiwibmV0Ijoid3MiLCJwcyI6IkF1c3RyaWEgU2VydmVyIDEiLCJ0eXBlIjoibm9uZSIsImhlYWRlclR5cGUiOiIiLCJwb3J0IjoiNDQzIiwidiI6IjIiLCJob3N0IjoiYXQzLnYydm1lc3Muc2l0ZSJ9"
     }
 ]
