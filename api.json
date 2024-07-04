@@ -1,7 +1,7 @@
 [
     {
-        "server_location": "Singapore Server 1",
-        "server_token": "vmess://eyJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJoZWFkZXJUeXBlIjoiIiwiYWRkIjoicG10NHZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsInYiOiIyIiwiZnAiOiJjaHJvbWUiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJpZCI6IjI5ZWJiOTEwLTZhMTEtNGE3NC1hMjQ1LTRiZGVmZGFlZDZiMiIsImhvc3QiOiIiLCJwcyI6IlNpbmdhcG9yZSBTZXJ2ZXIgMSIsInRscyI6InRscyIsInBhdGgiOiJcLyIsInNlcnZpY2VOYW1lIjoibm9uZSIsImFpZCI6IjAifQ=="
+        "server_location": "🇸🇬 Singapore Server 1",
+        "server_token": "vmess://eyJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJwb3J0IjoiNDQzIiwicGF0aCI6IlwvIiwicHMiOiLwn4e48J+HrCBTaW5nYXBvcmUgU2VydmVyIDEiLCJhaWQiOiIwIiwic2VydmljZU5hbWUiOiJub25lIiwiYWRkIjoicG10NHZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJoZWFkZXJUeXBlIjoiIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsInYiOiIyIiwiZnAiOiJjaHJvbWUiLCJpZCI6IjI5ZWJiOTEwLTZhMTEtNGE3NC1hMjQ1LTRiZGVmZGFlZDZiMiIsImhvc3QiOiIifQ=="
     },
     {
         "server_location": "🇸🇬 Singapore Server 2",
@@ -16,7 +16,7 @@
         "server_token": "vmess://eyJpZCI6IjI5ZWJiOTEwLTZhMTEtNGE3NC1hMjQ1LTRiZGVmZGFlZDZiMiIsIm5ldCI6IndzIiwiYWRkIjoicG10NHZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsImZwIjoiY2hyb21lIiwiaGVhZGVyVHlwZSI6IiIsImhvc3QiOiIiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ2IjoiMiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJwcyI6IvCfh7jwn4esIFNpbmdhcG9yZSBTZXJ2ZXIgNCIsInNlcnZpY2VOYW1lIjoibm9uZSIsImFpZCI6IjAifQ=="
     },
     {
-        "server_location": "Austria Server 1",
-        "server_token": "vmess://eyJhbHBuIjoiIiwiaWQiOiI3MmQ4ZTlkYy04ZjBmLTQ5OTAtOTNhNS0wODg4NGVhZDMwMmQiLCJhaWQiOiIwIiwicGF0aCI6Ilwvdm1lc3MiLCJzbmkiOiJhdDMudjJ2bWVzcy5zaXRlIiwiZnAiOiJjaHJvbWUiLCJhZGQiOiJhdDMudjJ2bWVzcy5zaXRlIiwidGxzIjoidGxzIiwic2VydmljZU5hbWUiOiJub25lIiwibmV0Ijoid3MiLCJwcyI6IkF1c3RyaWEgU2VydmVyIDEiLCJ0eXBlIjoibm9uZSIsImhlYWRlclR5cGUiOiIiLCJwb3J0IjoiNDQzIiwidiI6IjIiLCJob3N0IjoiYXQzLnYydm1lc3Muc2l0ZSJ9"
+        "server_location": "🇦🇹 Austria Server 1",
+        "server_token": "vmess://eyJ2IjoiMiIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwic25pIjoiYXQzLnYydm1lc3Muc2l0ZSIsInBvcnQiOiI0NDMiLCJhbHBuIjoiIiwicHMiOiLwn4em8J+HuSBBdXN0cmlhIFNlcnZlciAxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsImlkIjoiNzJkOGU5ZGMtOGYwZi00OTkwLTkzYTUtMDg4ODRlYWQzMDJkIiwic2VydmljZU5hbWUiOiJub25lIiwiYWRkIjoiYXQzLnYydm1lc3Muc2l0ZSIsInR5cGUiOiJub25lIiwiYWlkIjoiMCIsImhvc3QiOiJhdDMudjJ2bWVzcy5zaXRlIiwiaGVhZGVyVHlwZSI6IiJ9"
     }
 ]
