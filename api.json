@@ -4,16 +4,16 @@
         "server_token": "vmess://eyJwb3J0IjoiNDQzIiwibmV0Ijoid3MiLCJoZWFkZXJUeXBlIjoiIiwiYWRkIjoicG10NHZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsInYiOiIyIiwiZnAiOiJjaHJvbWUiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJpZCI6IjI5ZWJiOTEwLTZhMTEtNGE3NC1hMjQ1LTRiZGVmZGFlZDZiMiIsImhvc3QiOiIiLCJwcyI6IlNpbmdhcG9yZSBTZXJ2ZXIgMSIsInRscyI6InRscyIsInBhdGgiOiJcLyIsInNlcnZpY2VOYW1lIjoibm9uZSIsImFpZCI6IjAifQ=="
     },
     {
-        "server_location": "Singapore Server 2",
-        "server_token": "vmess://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInBvcnQiOiI4MCIsInBzIjoiU2luZ2Fwb3JlIFNlcnZlciAyIiwiZnAiOiJhbmRyb2lkIiwiYWRkIjoicG10NXZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsInR5cGUiOiJub25lIiwiaGVhZGVyVHlwZSI6IiIsImFpZCI6IjAiLCJzbmkiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJuZXQiOiJ3cyIsInYiOiIyIiwidGxzIjoidGxzIiwiaWQiOiIwYjAxMmU0NS1mYjYwLTQ3ZWUtOTkwYy0xOWE0YmZkYTBkZTAifQ=="
+        "server_location": "🇸🇬 Singapore Server 2",
+        "server_token": "vmess://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwic25pIjoiIiwiYWRkIjoicG10NXZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsIm5ldCI6IndzIiwicHMiOiLwn4e48J+HrCBTaW5nYXBvcmUgU2VydmVyIDIiLCJhaWQiOiIwIiwiaWQiOiIwYjAxMmU0NS1mYjYwLTQ3ZWUtOTkwYy0xOWE0YmZkYTBkZTAiLCJ0eXBlIjoibm9uZSIsImhlYWRlclR5cGUiOiIiLCJwb3J0IjoiODAiLCJwYXRoIjoiXC8iLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImZwIjoiYW5kcm9pZCIsImhvc3QiOiIifQ=="
     },
     {
-        "server_location": "Singapore Server 3",
-        "server_token": "vmess://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJhZGQiOiJwbXQzdmlwLm5heW1pbmJsb2dnZXIuY29tIiwibmV0IjoidGNwIiwic2VydmljZU5hbWUiOiJub25lIiwicGF0aCI6IiIsImhvc3QiOiIiLCJmcCI6ImNocm9tZSIsInRscyI6InRscyIsInYiOiIyIiwiYWlkIjoiMCIsInNuaSI6IiIsImlkIjoiNmZlMDAzM2ItY2I2ZC00Nzg1LTg5NTYtZjYwYTE5MTczNmI3IiwicHMiOiJTaW5nYXBvcmUgU2VydmVyIDMiLCJ0eXBlIjoibm9uZSIsInBvcnQiOiI0NDMifQ=="
+        "server_location": "🇸🇬 Singapore Server 3",
+        "server_token": "vmess://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicHMiOiLwn4e48J+HrCBTaW5nYXBvcmUgU2VydmVyIDMiLCJ0bHMiOiJ0bHMiLCJoZWFkZXJUeXBlIjoibm9uZSIsInBvcnQiOiI0NDMiLCJhZGQiOiJwbXQzdmlwLm5heW1pbmJsb2dnZXIuY29tIiwibmV0IjoidGNwIiwic2VydmljZU5hbWUiOiJub25lIiwiZnAiOiJjaHJvbWUiLCJzbmkiOiIiLCJ2IjoiMiIsInR5cGUiOiJub25lIiwiYWlkIjoiMCIsInBhdGgiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZmUwMDMzYi1jYjZkLTQ3ODUtODk1Ni1mNjBhMTkxNzM2YjcifQ=="
     },
     {
-        "server_location": "Singapore Server 4",
-        "server_token": "vmess://eyJwb3J0IjoiNDQzIiwic2VydmljZU5hbWUiOiJub25lIiwiaG9zdCI6IiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJ2IjoiMiIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjllYmI5MTAtNmExMS00YTc0LWEyNDUtNGJkZWZkYWVkNmIyIiwiaGVhZGVyVHlwZSI6IiIsImFkZCI6InBtdDR2aXAubmF5bWluYmxvZ2dlci5jb20iLCJmcCI6ImNocm9tZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwic25pIjoiIiwicHMiOiJTaW5nYXBvcmUgU2VydmVyIDQiLCJ0bHMiOiJ0bHMifQ=="
+        "server_location": "🇸🇬 Singapore Server 4",
+        "server_token": "vmess://eyJpZCI6IjI5ZWJiOTEwLTZhMTEtNGE3NC1hMjQ1LTRiZGVmZGFlZDZiMiIsIm5ldCI6IndzIiwiYWRkIjoicG10NHZpcC5uYXltaW5ibG9nZ2VyLmNvbSIsImZwIjoiY2hyb21lIiwiaGVhZGVyVHlwZSI6IiIsImhvc3QiOiIiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ2IjoiMiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJwcyI6IvCfh7jwn4esIFNpbmdhcG9yZSBTZXJ2ZXIgNCIsInNlcnZpY2VOYW1lIjoibm9uZSIsImFpZCI6IjAifQ=="
     },
     {
         "server_location": "Austria Server 1",
