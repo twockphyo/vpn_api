@@ -1,7 +1,7 @@
 [
     {
-        "server_location": "🇦🇹 Austria Server 1",
-        "server_token": "vmess://eyJhaWQiOiIwIiwiZnAiOiJjaHJvbWUiLCJhbHBuIjoiIiwicG9ydCI6IjQ0MyIsInYiOiIyIiwicGF0aCI6Ilwvdm1lc3MiLCJhZGQiOiJhdDMudjJ2bWVzcy5zaXRlIiwibmV0Ijoid3MiLCJzbmkiOiJhdDMudjJ2bWVzcy5zaXRlIiwiaG9zdCI6ImF0My52MnZtZXNzLnNpdGUiLCJ0eXBlIjoibm9uZSIsInBzIjoi8J+HpvCfh7kgQXVzdHJpYSIsInRscyI6InRscyIsInNlcnZpY2VOYW1lIjoibm9uZSIsImlkIjoiNzJkOGU5ZGMtOGYwZi00OTkwLTkzYTUtMDg4ODRlYWQzMDJkIiwiaGVhZGVyVHlwZSI6IiJ9"
+        "server_location": "🇦🇹 Austria",
+        "server_token": "vless://3cc6e849-088c-4d9e-bf0e-0aa6372b51c5@at2.v2vless.site:443?security=tls&encryption=none&type=ws&host=at2.v2vless.site&path=/vless&sni=at2.v2vless.site&fp=chrome#🇦🇹 Austria"
     },
     {
         "server_location": "🇸🇬 Singapore",
