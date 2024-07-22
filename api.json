@@ -22,5 +22,9 @@
     {
         "server_location": "🇭🇰 Hong Kong",
         "server_token": "vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_a2e5572@hk2.vless.site:80?security=none&encryption=none&type=ws&host=hk2.vless.site&path=/vless#🇭🇰 Hong Kong"
+    },
+    {
+        "server_location": "🇷🇺 Russia",
+        "server_token": "vmess://eyJuZXQiOiJ3cyIsInYiOiIyIiwiYWxwbiI6IiIsInNuaSI6InJ1Mi52bWVzcy5zaXRlIiwiZnAiOiJjaHJvbWUiLCJwb3J0IjoiNDQzIiwiaGVhZGVyVHlwZSI6IiIsImlkIjoiSV9Mb3ZlX/Cfh7Xwn4e4X1NTSE1heF8wNGZmNmI5IiwidHlwZSI6Im5vbmUiLCJwcyI6IvCfh7fwn4e6IFJ1c3NpYSIsImFkZCI6InJ1Mi52bWVzcy5zaXRlIiwiYWlkIjoiMCIsInRscyI6InRscyIsInNlcnZpY2VOYW1lIjoibm9uZSIsImhvc3QiOiJydTIudm1lc3Muc2l0ZSIsInBhdGgiOiJcL3ZtZXNzI0RPTlQtRk9SR0VULVRPLVNVUFBPUlQtU1NITUFYLk5FVC1UTy1LRUVQLVRISVMtU0VSVkVSLUFMSVZFIn0="
     }
 ]
