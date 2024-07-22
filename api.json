@@ -1,7 +1,7 @@
 [
     {
         "server_location": "🇦🇹 Austria",
-        "server_token": "vless://3cc6e849-088c-4d9e-bf0e-0aa6372b51c5@at2.v2vless.site:443?security=tls&encryption=none&type=ws&host=at2.v2vless.site&path=/vless&sni=at2.v2vless.site&fp=chrome#🇦🇹 Austria"
+        "server_token": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0ZqTmpNNUBhdDEuc3Nwcm94eS54eXo6ODM4OA==#🇦🇹 Austria"
     },
     {
         "server_location": "🇸🇬 Singapore",
