@@ -18,5 +18,9 @@
     {
         "server_location": "🇺🇸 United States",
         "server_token": "vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_009761b@us2.vless.site:80?security=none&encryption=none&type=ws&host=us2.vless.site&path=/vless#🇺🇸 United States"
+    },
+    {
+        "server_location": "🇭🇰 Hong Kong",
+        "server_token": "vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_a2e5572@hk2.vless.site:80?security=none&encryption=none&type=ws&host=hk2.vless.site&path=/vless#🇭🇰 Hong Kong"
     }
 ]
